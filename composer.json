@@ -1,5 +1,5 @@
 {
-    "name": "upcloudltd/upcloud-php-api",
+    "name": "mlackman/upcloud-php-api",
     "description": "UpCloud PHP API",
     "keywords": [
         "php",
@@ -7,7 +7,7 @@
         "api",
 	"upcloud"
     ],
-    "homepage": "https://github.com/UpCloudLtd/upcloud-php-api",
+    "homepage": "https://github.com/mlackman/upcloud-php-api",
     "license": "proprietary",
     "authors": [
         {
